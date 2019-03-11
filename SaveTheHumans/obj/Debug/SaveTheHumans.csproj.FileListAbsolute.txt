@@ -1,0 +1,69 @@
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\resources.pri
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\AppxManifest.xml
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.build.appxrecipe
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.i.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.i.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\XamlTypeInfo.g.cs
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\App.xaml
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.xaml
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.xaml
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.exe
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.pdb
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\priconfig.xml
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\layout.resfiles
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\resources.resfiles
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\pri.resfiles
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\LanguageQualifiers.txt
+c:\users\osar\documents\visual studio 2012\Projects\SaveTheHumans\SaveTheHumans\obj\Debug\ProjectArchitectures.txt
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\resources.pri
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\AppxManifest.xml
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.build.appxrecipe
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\App.xaml
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.xaml
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.xaml
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.exe
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.pdb
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\priconfig.xml
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\layout.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\resources.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\pri.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\LanguageQualifiers.txt
+C:\Users\olegs\source\repos\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\ProjectArchitectures.txt
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\bin\Debug\resources.pri
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\bin\Debug\AppxManifest.xml
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.build.appxrecipe
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.i.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\App.xaml
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\Common\StandardStyles.xaml
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.xaml
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.exe
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.pdb
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\priconfig.xml
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\layout.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\resources.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\pri.resfiles
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\LanguageQualifiers.txt
+C:\Users\olegs\source\repos\SaveTheHumans (1)\SaveTheHumans\SaveTheHumans\obj\Debug\ProjectArchitectures.txt
